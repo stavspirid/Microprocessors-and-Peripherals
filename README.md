@@ -14,3 +14,6 @@ Different timings required different clock frequencies, so the main clock was us
 
 ### Lab 3
 In this lab, a driver for the DHT11 sensor was designed and used along with 2 other GPIO (1 analog and 1 digital) sensors for determining the conditions inside a greenhouse. Built-in ADC and DAC drivers were used for this design.
+
+### Info
+[STM32F411RE](https://www.st.com/en/microcontrollers-microprocessors/stm32f411re.html) and [ARM Keil](https://www.keil.com/) were used throughout all labs. [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) was used for reading the UART signal from the USB port.
